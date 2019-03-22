@@ -1,0 +1,7 @@
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\bin\Debug\RealStateScrapper.exe.config
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\bin\Debug\RealStateScrapper.exe
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\bin\Debug\RealStateScrapper.pdb
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\obj\Debug\RealStateScrapper.csprojAssemblyReference.cache
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\obj\Debug\RealStateScrapper.csproj.CoreCompileInputs.cache
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\obj\Debug\RealStateScrapper.exe
+C:\Users\sacor\source\repos\RealStateScrapper\RealStateScrapper\obj\Debug\RealStateScrapper.pdb
