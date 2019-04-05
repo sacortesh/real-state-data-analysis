@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KmlFile</name>
+	<Style id="default">
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>VM</name>
+		<LookAt>
+			<longitude>-74.04597474597701</longitude>
+			<latitude>4.740863449254486</latitude>
+			<altitude>0</altitude>
+			<heading>4.663498822454442e-005</heading>
+			<tilt>0</tilt>
+			<range>1000.383453546291</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#default0</styleUrl>
+		<Point>
+			<coordinates>-74.046539,4.740548,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

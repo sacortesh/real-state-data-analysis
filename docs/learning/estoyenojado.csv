@@ -1,2 +1,2 @@
-descripcion,longitud,latitud,SHAPE
-Mi casa,4.740548,-74.046539,"{'x': 4.740548, 'y': -74.046539, 'spatialReference': {'wkid': 3857}}"
+descripcion,latitud,longitud
+Mi casa,4.740863449,-74.04597475
